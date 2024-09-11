@@ -1,4 +1,6 @@
 ### Used Car Price Prediction
+![image](https://github.com/user-attachments/assets/0d714ce6-c619-46be-9b7d-bd551beceee1)
+
 
 **Author**
 Kevin Joseph
