@@ -16,7 +16,9 @@ What drives the price of a used car, and can we create a model to accurately pre
 
 #### Data Sources
 [https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction]([url](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction))
+
 ![download (2)](https://github.com/user-attachments/assets/0624604d-1220-4aa9-9d4d-1bcc7e78cbd3)
+
 From here we can see a correlation matrix of all of the numerical columns. Horsepower and displacement seem to have the highest impact on price out of our numerical categories.
 
 #### Methodology
